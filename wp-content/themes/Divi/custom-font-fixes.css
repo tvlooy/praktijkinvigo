@@ -264,12 +264,6 @@ span[style*="font-weight"] {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !important;
 }
 
-/* Verwijder extra witruimte na de blokjes */
-.et_pb_row_6 {
-    padding-top: 20px !important;
-    padding-bottom: 30px !important;
-}
-
 /* Fix sectie na de blokjes (grote witruimte) */
 .et_pb_section_4 {
     padding-top: 40px !important;
